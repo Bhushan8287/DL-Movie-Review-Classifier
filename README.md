@@ -40,7 +40,7 @@ movie-review-classification/
    streamlit run app.py
    ```
 ## 🌐 Live Demo
-Try the deployed model: link
+Try the deployed model: https://dl-movie-review-classifier-eyuwhjnrsghu5eavf8go5i.streamlit.app/
 
 ## 🛠 Technologies Used
   Python 
